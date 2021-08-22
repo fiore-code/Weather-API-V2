@@ -14,4 +14,4 @@ $ npm install
 
 ## License
 
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE) © Subham Biswas
